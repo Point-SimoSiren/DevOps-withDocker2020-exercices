@@ -1,0 +1,8 @@
+docker run devopsdockeruh/exec_bash_exercisedocker
+
+docker exec -it laughing_faraday bash
+
+tail -f ./logs.txt
+
+Secret message is:
+"Docker is easy"
